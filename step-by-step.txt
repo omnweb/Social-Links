@@ -1,0 +1,13 @@
+npm init - y 
+npm install next react react-dom
+
+alteração no package.json
+"scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+
+  npm install prismic-javascript
+
+  npm run dev para rodar o servidor
