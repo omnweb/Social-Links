@@ -3,3 +3,9 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
