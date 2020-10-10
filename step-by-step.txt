@@ -8,6 +8,10 @@ alteração no package.json
     "build": "next build"
   },
 
-  npm install prismic-javascript
+Instalando prismic  npm install prismic-javascript
 
-  npm run dev para rodar o servidor
+Iniciando o servidor npm run dev 
+
+Instalando css - npm install tailwindcss
+rosando a biblioteca css - npx tailwindcss init
+
